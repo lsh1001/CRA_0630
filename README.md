@@ -2,5 +2,5 @@
 ## 프로젝트
 ### 테스트 프로젝트 입니다
 
-Hello
-World
+Hello World
+Hello Git
